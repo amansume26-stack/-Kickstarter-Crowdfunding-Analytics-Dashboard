@@ -227,9 +227,9 @@ ORDER BY success_rate DESC;
 
 | Dashboard | Link |
 |---|---|
-| 📈 Power BI (.pbix) | [Download from Google Drive](YOUR_POWERBI_DRIVE_LINK) |
-| 📉 Tableau (.twbx) | [Download from Google Drive](YOUR_TABLEAU_DRIVE_LINK) |
-| 📊 Excel (.xlsx) | [Download from Google Drive](YOUR_EXCEL_DRIVE_LINK) |
+| 📈 Power BI (.pbix) | [Download from Google Drive](https://drive.google.com/file/d/1JgoXtrR26sQueeZS_nWp5trEo8Iv6pTN/view?usp=drive_link) |
+| 📉 Tableau (.twbx) | [Download from Google Drive](https://drive.google.com/file/d/14bdatA9lsbcROWU2KIxgsA5-MwIk08ST/view?usp=drive_link) |
+| 📊 Excel (.xlsx) | [Download from Google Drive](https://docs.google.com/spreadsheets/d/1TNXXq7Qn_0YSPfyQOl-MxAYNm_cXZoh5/edit?usp=drive_link&ouid=113247495428014701329&rtpof=true&sd=true) |
 
 ---
 
