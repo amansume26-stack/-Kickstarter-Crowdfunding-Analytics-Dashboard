@@ -217,7 +217,7 @@ ORDER BY success_rate DESC;
 ### 📈 Power BI Dashboard
 > Advanced DAX-powered dashboard with dynamic slicers. Reveals that while *Exploding Kittens* attracted the highest backer volume, hardware projects like *Pebble Time* dominate total funds raised.
 
-![Power BI Dashboard](https://raw.githubusercontent.com/amansume26-stack/-Kickstarter-Crowdfunding-Analytics-Dashboard/main/images/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/amansume26-stack/-Kickstarter-Crowdfunding-Analytics-Dashboard/blob/main/Snapshot%20Of%20Power%20BI%20Dashboard(Cf).png)
 
 ---
 
