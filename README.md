@@ -44,7 +44,7 @@ Raw Data → MySQL (SQL Queries) → Excel Dashboard → Tableau Dashboard → P
 - **High Failure Rate** — Only ~38% of projects succeed, making data-driven strategy essential
 - **Lower Goals Win** — Campaigns with realistic, lower funding targets show significantly higher success rates
 - **Backer Momentum Matters** — Projects with high early backer volume have exponentially better odds of reaching their goal
-- **Optimal Duration** — 60–90 day campaigns hit the sweet spot between urgency and audience fatigue
+- **Optimal Duration** — 60–90-day campaigns hit the sweet spot between urgency and audience fatigue
 - **US Dominance** — The United States contributes the highest volume of projects and total funds raised
 - **Pareto Principle** — Niche categories like **Games** and **Design** drive the majority of total funds raised
 
@@ -203,7 +203,7 @@ ORDER BY success_rate DESC;
 ### 📊 Excel Dashboard
 > Pivot-based high-level tracking of KPIs, outcome segmentation, and geographic distribution.
 
-![Excel Dashboard](https://raw.githubusercontent.com/amansume26-stack/-Kickstarter-Crowdfunding-Analytics-Dashboard/main/images/excel_dashboard.png)
+![Excel Dashboard](https://github.com/amansume26-stack/-Kickstarter-Crowdfunding-Analytics-Dashboard/blob/main/Snapshot%20Of%20Excel%20Dashboard(Cf).png)
 
 ---
 
