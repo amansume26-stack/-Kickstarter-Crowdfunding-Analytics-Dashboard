@@ -210,7 +210,7 @@ ORDER BY success_rate DESC;
 ### 📉 Tableau Dashboard
 > Interactive filters for region, category, and funding timelines. Pareto analysis highlights top-performing categories.
 
-![Tableau Dashboard](https://raw.githubusercontent.com/amansume26-stack/-Kickstarter-Crowdfunding-Analytics-Dashboard/main/images/tableau_dashboard.png)
+![Tableau Dashboard](https://github.com/amansume26-stack/-Kickstarter-Crowdfunding-Analytics-Dashboard/blob/main/Snapshot%20of%20Tableau%20Dashboard(Cf).png)
 
 ---
 
