@@ -229,6 +229,7 @@ ORDER BY success_rate DESC;
 |---|---|
 | 📈 Power BI (.pbix) | [Download from Google Drive](YOUR_POWERBI_DRIVE_LINK) |
 | 📉 Tableau (.twbx) | [Download from Google Drive](YOUR_TABLEAU_DRIVE_LINK) |
+| 📊 Excel (.xlsx) | [Download from Google Drive](YOUR_EXCEL_DRIVE_LINK) |
 
 ---
 
